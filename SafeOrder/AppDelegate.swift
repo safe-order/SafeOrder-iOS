@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SafeOrder
-//
-//  Created by 조근호 on 6/28/24.
-//
-
 import UIKit
 
 @main
